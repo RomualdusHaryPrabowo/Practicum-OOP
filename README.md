@@ -1,3 +1,3 @@
-# Practicum assignment assignments
+# Practicum Assignments
 Object-Oriented Programming (Python)
 
